@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
