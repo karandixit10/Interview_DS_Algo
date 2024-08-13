@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
