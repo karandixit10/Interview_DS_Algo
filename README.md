@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0273-integer-to-english-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0592-fraction-addition-and-subtraction) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
