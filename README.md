@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
