@@ -1,17 +1,19 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        unordered_map<int, int> mp;
-
-        for(int i = 0; i < n ; ++i)
-        {
-            int difference = target - nums[i];
-            if(mp.count(difference)){
-                return {mp[difference], i};
-            }
-            mp[nums[i]] = i ;
+        unordered_map<int,int> mp;
+        // Build the hash table
+        for (int i = 0; i < nums.size(); i++) {
+            mp[nums[i]] = i;
         }
-        return {}; // No solution found
+
+        for(int i = 0 ; i < nums.size(); i++){
+            int complement = target - nums[i];
+            if (mp.find(complement) != mp.end() && mp[complement] != i) {
+                cout<<complement;
+                return {mp[complement], i};
+            }
+        }
+        return {};
     }
 };
