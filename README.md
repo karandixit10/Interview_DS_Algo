@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -306,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
