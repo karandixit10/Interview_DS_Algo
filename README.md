@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 | [0539-minimum-time-difference](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
@@ -234,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Heap (Priority Queue)
@@ -319,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
