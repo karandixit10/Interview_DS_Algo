@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1923-sentence-similarity-iii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1240-stone-game-ii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1197-parsing-a-boolean-expression) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0921-spiral-matrix-iii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0859-design-circular-deque) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
