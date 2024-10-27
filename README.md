@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0650-2-keys-keyboard) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1002-maximum-width-ramp) |
 ## Enumeration
 |  |
