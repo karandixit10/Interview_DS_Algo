@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0273-integer-to-english-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0567-permutation-in-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0264-ugly-number-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0264-ugly-number-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
