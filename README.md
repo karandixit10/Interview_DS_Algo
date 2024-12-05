@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2727-number-of-senior-citizens) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2699-count-the-number-of-fair-pairs) |
