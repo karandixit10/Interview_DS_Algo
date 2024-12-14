@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,12 +538,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
@@ -588,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2201-valid-arrangement-of-pairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
