@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1196-filling-bookcase-shelves) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
