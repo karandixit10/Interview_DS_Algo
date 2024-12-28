@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0787-sliding-puzzle) |
