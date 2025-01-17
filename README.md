@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2755-extra-characters-in-a-string) |
+| [2792-neighboring-bitwise-xor](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/karandixit10/Interview_DS_Algo/tree/master/3394-minimum-array-end) |
