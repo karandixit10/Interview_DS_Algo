@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1325-path-with-maximum-probability) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0623-add-one-row-to-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0623-add-one-row-to-tree) |
+| [0684-redundant-connection](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0386-lexicographical-numbers) |
 | [0623-add-one-row-to-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0623-add-one-row-to-tree) |
+| [0684-redundant-connection](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1396-count-servers-that-communicate) |
