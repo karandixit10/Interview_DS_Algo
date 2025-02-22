@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1304-longest-happy-string) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0623-add-one-row-to-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karandixit10/Interview_DS_Algo/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
