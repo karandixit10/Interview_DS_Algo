@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1240-stone-game-ii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
