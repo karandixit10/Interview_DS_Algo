@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0806-domino-and-tromino-tiling](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0806-domino-and-tromino-tiling) |
 | [1025-minimum-cost-for-tickets](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1240-stone-game-ii) |
