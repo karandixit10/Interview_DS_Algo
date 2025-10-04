@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0868-push-dominoes) |
