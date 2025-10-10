@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0494-target-sum) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/karandixit10/Interview_DS_Algo/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/karandixit10/Interview_DS_Algo/tree/master/1468-check-if-n-and-its-double-exist) |
